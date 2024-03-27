@@ -35,3 +35,4 @@ out/
 
 ### VS Code ###
 .vscode/
+/luigi-sandbox/luigi-no-framework/node_modules/
